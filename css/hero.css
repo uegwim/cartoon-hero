@@ -8,6 +8,9 @@ header{
     background-color: #76d337;
     text-align: center;
     padding: 50px 0px;
+    & h2{
+        padding-bottom: 20px;
+    }
 }
 
 h1, h2{
